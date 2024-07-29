@@ -1,7 +1,7 @@
 # DRCPL
 Deep Residual Coupled Prompt Learning for Zero-Shot Sketch-Based Image Retrieval
 
-![Fig.1](./Model.png)
+![Fig.1](./DRCPL-model.png)
 
 ## ========= Installation and Requirements =========
 
