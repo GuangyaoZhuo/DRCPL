@@ -1,6 +1,5 @@
 # DRCPL
 Deep Residual Coupled Prompt Learning for Zero-Shot Sketch-Based Image Retrieval
-# Deep supervision network with contrastive learning for zero-shot sketch-based image retrieval
 
 ![Fig.1](./Model.png)
 
