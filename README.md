@@ -22,21 +22,8 @@ Please go to the [ZSE-SBIR](https://github.com/buptLinfy/ZSE-SBIR)
 
 ## ============== Training ==============
 
-### Train with the Sketchy Ext dataset
-
-- ``` CUDA_VISIBLE_DEVICES=1 python train_cse_resnet_sketchy_ext.py  ```
-
-### Train with the TU-Berlin Ext dataset
-
-- ``` CUDA_VISIBLE_DEVICES=1 python train_cse_resnet_tuberlin_ext.py  ```
-
+- ``` CUDA_VISIBLE_DEVICES=1 python train.py  ```
 
 ## ============== Testing ==============
 
-### Test with the Sketchy Ext dataset
-
-- ``` CUDA_VISIBLE_DEVICES=1 python test_cse_resnet_sketchy_zeroshot.py  ```
-
-### Test with the TU-Berlin Ext dataset
-
-- ``` CUDA_VISIBLE_DEVICES=1 python test_cse_resnet_tuberlin_zeroshot.py  ```
+- ``` CUDA_VISIBLE_DEVICES=1 python test.py  ```
